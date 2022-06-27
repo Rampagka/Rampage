@@ -47,7 +47,7 @@ export default {
     return {
       id: 5,
       city: [],
-      phone: '79197158911',
+      phone: '70000000001',
       code: '{{0000}}'
     }
   },
