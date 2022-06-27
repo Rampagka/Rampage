@@ -1,0 +1,15 @@
+{
+    "allowUnicodeIdentifiers": true,
+
+    "dryRun": false,
+
+    "disallowAdditionalPropertiesIfNotPresent": true,
+
+    "useES6": true,
+
+    "enablePostProcessFile": true,
+
+    "modelPropertyNaming": "original",
+
+    "usePromises": true
+}
